@@ -11,7 +11,7 @@ The neutrino flux for DUNE can be found [here](https://cernbox.cern.ch/files/lin
 
 
 ## GENIE only comparison: AR23_20i_00_000 vs.  N24_20i_02_11b
-To generate flat root tree sample with nuisflat:
+To generate flat root tree sample with nuisflat, take numu on Carbon-12 as an example:
 ```bash
 bash makeCCQE.sh 
 PrepareGENIE -i 14_1000060120\[1.0\]_618.root -f $(nuis flux NOvA_ND) -t 1000060120[1.0] -o CC_C12prep.root
