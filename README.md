@@ -35,7 +35,7 @@ The root file directory is
 ```bash
 /pnfs/nova/production/genie/R25-02-27-prod6genie.b/nd/N24_20i_02_11b/000121/12150/
 ```
-and the saw dataset is 
+and the SAMWEB dataset is 
 ```bash
 "defname:prod_genie_R25-02-27-prod6genie.b_nd_genie_N24_20i_02_11b_nonswap_rhc_nova_v08_full_v1_miniprod6-2_geniephyopt_nominal"
 ```
