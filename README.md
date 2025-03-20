@@ -40,5 +40,7 @@ and the saw dataset is
 "defname:prod_genie_R25-02-27-prod6genie.b_nd_genie_N24_20i_02_11b_nonswap_rhc_nova_v08_full_v1_miniprod6-2_geniephyopt_nominal"
 ```
 
+## Data management
+NOvA is still using the SamWeb to fetch dataset. So I borrowed the python script([samweb_listing.py](samweb_listing.py)) from ProtoDUNE to access defname files.
 
 
