@@ -27,7 +27,7 @@ The sample directory is
 ```
 and samweb dataset name is
 ```bash
-"defname:prod_genie_R25-02-27-prod6genie.b_nd_nie_N24_20i_02_11b_nonswap_fhc_nova_v08_full_v1_miniprod6-2_geniephyopt_nominal"
+"defname:prod_genie_R25-02-27-prod6genie.b_nd_genie_N24_20i_02_11b_nonswap_fhc_nova_v08_full_v1_miniprod6-2_geniephyopt_nominal"
 ```
 
 ## Nominal RHC genie level only samples
