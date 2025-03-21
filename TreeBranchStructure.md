@@ -1,3 +1,5 @@
+## MiniProd 6.2
+
 In Genie only sim.genie.root files, we have
 ```bash
 root [1] Events->GetListOfBranches()->Print()
