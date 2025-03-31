@@ -45,4 +45,8 @@ NOvA is still using the SamWeb to fetch dataset. So I borrowed the python script
 
 ## Workflow
 Since `submit_nova_art.py` didn't work well during the MiniProd 6.2 validation period for a lot of reasons, I had to use bash script to run the GENIE file one by one.
+So I ran 
+```bash
+bash loopart.sh list_sam_files.txt
+```
 
