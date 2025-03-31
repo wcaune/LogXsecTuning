@@ -43,4 +43,6 @@ and the SAMWEB dataset is
 ## Data management
 NOvA is still using the SamWeb to fetch dataset. So I borrowed the python script([samweb_listing.py](samweb_listing.py)) from ProtoDUNE to access defname files.
 
+## Workflow
+Since `submit_nova_art.py` didn't work well during the validation period for a lot of reasons, I had to use bash script to run the GENIE file one by one.
 
