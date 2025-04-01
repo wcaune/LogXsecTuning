@@ -49,4 +49,4 @@ So I ran
 ```bash
 bash loopart.sh list_sam_files.txt
 ```
-
+And the fcl file I ran was `Validation/fcl/validation_genieonly_job.fcl` under `novasoft` development release.
