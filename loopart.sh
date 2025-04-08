@@ -24,7 +24,7 @@ process_line() {
 }
 
 # --- Main Script Logic ---
-
+# Author: Dr. Biao Wang
 # Check if a filename was provided as an argument
 if [ -z "$1" ]; then
   echo "Usage: $0 <filename>"
