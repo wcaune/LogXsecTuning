@@ -1,7 +1,13 @@
 # LogXSecTuning
 Dairy of Neutrino Cross-Section Tuning 
 
-
+## Set Event Generator List and TUNE
+IN `$NUGEN_DIR/source/nugen/EventGeneratorBase/GENIE/GENIE2ART.h`, there is a function called 
+```cpp
+ void SetEventGeneratorListAndTune(const std::string& evtlistname = "",
+                           const std::string& tunename = "${GENIE_XSEC_TUNE}");
+```
+And we have to put it in the Begin Job of the art cpp module.
 ### Aug 13, 2024 
 I installed NUISANCE and NuSystematics by following [DirtTwo](https://twiki.cern.ch/twiki/bin/view/Main/DirtTwo) wiki.  <br />
 After that, each time I logged in, I did source the [qidong.sh](qidong.sh) file.
